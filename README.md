@@ -1,0 +1,2 @@
+# anydoor
+node 搭建静态服务器
