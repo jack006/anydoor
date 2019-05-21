@@ -1,0 +1,31 @@
+{
+  "name": "anydoor",
+  "version": "0.1.0",
+  "description": "tiny nodejs web server",
+  "main": "src/app.js",
+  "bin": {
+    "anydoor": "bin/anydoor"
+  },
+  "respository": {
+    "type": "git",
+    "url": "git+https://github.com/jack006/anydoor.git"
+  },
+  "keywords": {
+   
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "formidable": "^1.2.1",
+    "handlebars": "^4.1.2",
+    "http": "^0.0.0",
+    "mime-types": "^2.1.24",
+    "util": "^0.12.0",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "stylelint": "^10.0.1"
+  },
+  "author": "jack006",
+  "license": "ISC"
+}
